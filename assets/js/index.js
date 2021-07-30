@@ -42,13 +42,21 @@
 //   }
 // } while (i <= 50);
 
-
 // const calc = function (number) {
-//     while (number !== 6) {
-//         number = +prompt("enter answer 2 + 2 * 2")
-//         continue;
-//     } 
-//     alert("yes 2 + 2 * 2 = 6 ");
-    
-// } 
+//   while (number !== 6) {
+//     number = +prompt("enter answer 2 + 2 * 2");
 
+//     continue;
+//   }
+//   alert("yes 2 + 2 * 2 = 6 ");
+// };
+// calc();
+
+// let result = 0;
+// const sum = function (numbber) {
+//   for (let i = 0; i <= 100; i++) {
+//     result += i;
+//   }
+// };
+// sum();
+// console.log(result);
